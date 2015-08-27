@@ -21,4 +21,4 @@ I have a life, so once in a while (maybe more often), I'd rant. I'd write about 
 I'd try to mind my language when I'm pissed!
 
 
-P.S. Thanks to [joshualande](http://joshualande.com) for his [post](http://joshualande.com/jekyll-github-pages-poole/).
+P.S. Thanks to [joshualande](http://joshualande.com) for his [post](http://joshualande.com/jekyll-github-pages-poole/) on setting up a blog with [poole](https://github.com/poole/poole)
