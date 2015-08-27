@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 22\:07
+title: 22:07
 ---
 
 This, is my first post. I'm not sure why I named it the time of writing.
