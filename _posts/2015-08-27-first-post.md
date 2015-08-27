@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 22:07
+title: Test drive
 ---
 
-This, is my first post. I'm not sure why I named it the time of writing.
 I've been planning on writing for a very long time. I took the plunge a few weeks ago and setup this *.github.io* page. 
 Since then I've been musing about what to write about (early (or late) signs of procrastination).
 
@@ -19,3 +18,7 @@ I have a life, so once in a while (maybe more often), I'd rant. I'd write about 
 ---
 
 I'd try to mind my language when I'm pissed!
+
+---
+
+P.S. Thanks to [joshualande](http://joshualande.com) for his [post](http://joshualande.com/jekyll-github-pages-poole/).
