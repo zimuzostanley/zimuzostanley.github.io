@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Zim
-tagline:             ***
+#tagline:             
 url:                 http://zimuzostanley.github.io
 paginate:            1
 baseurl:             ""
